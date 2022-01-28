@@ -4,5 +4,5 @@ go 1.11
 
 require (
 	github.com/valyala/bytebufferpool v1.0.0
-	github.com/valyala/fasthttp v1.14.0
+	github.com/valyala/fasthttp v1.33.0
 )
